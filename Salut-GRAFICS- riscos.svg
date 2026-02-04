@@ -1,180 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024.15 883.38">
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 884.47 598.85">
   <defs>
     <style>
       .cls-1, .cls-2 {
-        fill: #c98392;
+        font-size: 30.76px;
       }
 
-      .cls-3, .cls-4, .cls-5, .cls-6 {
-        font-weight: 600;
-      }
-
-      .cls-3, .cls-4, .cls-6 {
-        font-family: Inter-SemiBold, Inter;
-        font-size: 20px;
-      }
-
-      .cls-3, .cls-7 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-8, .cls-9 {
-        fill: none;
-      }
-
-      .cls-8, .cls-9, .cls-2 {
-        stroke: #fff;
-        stroke-miterlimit: 10;
-      }
-
-      .cls-8, .cls-2 {
-        stroke-width: 12px;
-      }
-
-      .cls-10, .cls-5, .cls-6, .cls-11 {
-        fill: #fff;
-      }
-
-      .cls-10, .cls-12 {
+      .cls-1, .cls-2, .cls-3 {
         font-family: OpenSans-ExtraBold, 'Open Sans';
-        font-size: 48px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
         font-weight: 700;
       }
 
-      .cls-5 {
-        font-family: OpenSans-SemiBold, 'Open Sans';
-        font-size: 22.54px;
+      .cls-7 {
+        fill: #c98392;
+      }
+
+      .cls-8, .cls-9, .cls-4, .cls-10 {
+        font-size: 12.82px;
+      }
+
+      .cls-8, .cls-9, .cls-10 {
+        font-family: Inter-SemiBold, Inter;
+        font-weight: 600;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-11, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 30.76px;
+      }
+
+      .cls-12, .cls-13, .cls-14 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        stroke: #fff;
+      }
+
+      .cls-12, .cls-13, .cls-15 {
+        stroke-width: 4px;
+      }
+
+      .cls-12, .cls-14, .cls-15, .cls-16 {
+        fill: none;
+      }
+
+      .cls-13, .cls-17 {
+        fill: #ba4760;
       }
 
       .cls-9 {
-        stroke-width: .25px;
+        letter-spacing: 0em;
       }
 
-      .cls-13 {
+      .cls-18 {
+        fill: #ce6f45;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-family: Inter-Bold, Inter;
+      }
+
+      .cls-5 {
+        font-size: 12.82px;
+      }
+
+      .cls-19 {
         letter-spacing: 0em;
       }
 
       .cls-14 {
-        fill: #842c00;
+        stroke-width: .25px;
       }
 
-      .cls-15 {
+      .cls-10, .cls-20 {
         letter-spacing: -.02em;
+      }
+
+      .cls-15, .cls-16 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
       }
 
       .cls-16 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-17 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-18 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-19 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-20 {
-        letter-spacing: 0em;
+        stroke-width: 3px;
       }
 
       .cls-21 {
-        letter-spacing: 0em;
+        letter-spacing: -.06em;
       }
 
       .cls-22 {
-        letter-spacing: -.01em;
+        fill: #842c00;
+      }
+
+      .cls-6 {
+        font-size: 14.44px;
       }
 
       .cls-23 {
-        letter-spacing: 0em;
+        letter-spacing: -.03em;
       }
 
       .cls-24 {
-        fill: #ba4760;
+        letter-spacing: -.02em;
+      }
+
+      .cls-25 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-26 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-29 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+
+      .cls-33 {
+        letter-spacing: 0em;
+      }
+
+      .cls-34 {
+        letter-spacing: 0em;
       }
     </style>
   </defs>
-  <circle class="cls-14" cx="534.4" cy="162.09" r="124.78"/>
   <g>
-    <text class="cls-10" transform="translate(469.48 118.01)"><tspan x="0" y="0">33%</tspan></text>
-    <text class="cls-6" transform="translate(469.48 145.43)"><tspan x="0" y="0">dels nens de 3 a </tspan><tspan x="0" y="24">14 a</tspan><tspan class="cls-7" x="39.39" y="24">n</tspan><tspan x="51.19" y="24">ys </tspan><tspan class="cls-17" x="78.65" y="24">f</tspan><tspan x="85.82" y="24">an un </tspan><tspan x="0" y="48">consum f</tspan><tspan class="cls-16" x="89.51" y="48">r</tspan><tspan x="96.99" y="48">eqüent </tspan><tspan x="0" y="72">d´alimen</tspan><tspan class="cls-23" x="86.47" y="72">t</tspan><tspan x="93.9" y="72">s </tspan><tspan x="0" y="96">hipe</tspan><tspan class="cls-16" x="41.82" y="96">r</tspan><tspan x="49.3" y="96">calòrics</tspan></text>
+    <circle class="cls-22" cx="362.36" cy="113.97" r="79.97"/>
+    <circle class="cls-18" cx="735.15" cy="339.38" r="79.97"/>
+    <circle class="cls-22" cx="136.4" cy="370.18" r="71.04"/>
+    <circle class="cls-7" cx="457.77" cy="461.74" r="105.14"/>
+    <circle class="cls-17" cx="520.59" cy="245.69" r="105.14"/>
+    <circle class="cls-17" cx="261.21" cy="472.61" r="71.04"/>
+    <circle class="cls-18" cx="322.24" cy="299.41" r="71.04"/>
+    <circle class="cls-22" cx="653.25" cy="486.06" r="71.04"/>
+    <circle class="cls-7" cx="164.91" cy="178.69" r="105.14"/>
+    <circle class="cls-17" cx="719.57" cy="137.11" r="105.14"/>
   </g>
-  <circle class="cls-14" cx="245.8" cy="519.43" r="110.84"/>
-  <g>
-    <text class="cls-10" transform="translate(182.12 487.4)"><tspan x="0" y="0">14,6%</tspan></text>
-    <text class="cls-6" transform="translate(182.12 517.83)"><tspan x="0" y="0">dels adul</tspan><tspan class="cls-23" x="87.09" y="0">t</tspan><tspan x="94.53" y="0">s </tspan><tspan x="0" y="24">consumeix </tspan><tspan x="0" y="48">begudes </tspan><tspan x="0" y="72">ensuc</tspan><tspan class="cls-22" x="58.74" y="72">r</tspan><tspan x="66.47" y="72">ades</tspan></text>
-  </g>
-  <circle class="cls-1" cx="717.26" cy="666.28" r="164.04"/>
-  <g>
-    <text class="cls-10" transform="translate(685.51 587.28)"><tspan x="0" y="0">52%</tspan></text>
-    <text class="cls-6" transform="translate(685.51 614.7)"><tspan x="0" y="0">dels adul</tspan><tspan class="cls-23" x="87.09" y="0">t</tspan><tspan x="94.53" y="0">s i el</tspan></text>
-    <text class="cls-10" transform="translate(685.51 672.01)"><tspan x="0" y="0">32%</tspan></text>
-    <text class="cls-6" transform="translate(685.51 700.43)"><tspan x="0" y="0">dels menors</tspan><tspan x="0" y="24">de 6 a 12 a</tspan><tspan class="cls-7" x="102.31" y="24">n</tspan><tspan x="114.1" y="24">ys </tspan><tspan class="cls-21" x="0" y="48">t</tspan><tspan x="7.49" y="48">enen sob</tspan><tspan class="cls-16" x="96.29" y="48">r</tspan><tspan x="103.77" y="48">epes</tspan><tspan x="0" y="72">o obesitat</tspan></text>
-    <g>
-      <path class="cls-11" d="M587.89,622.77v65.4c.76,6.63,5.66,11.75,12.37,12.38h65.14c6.65-.43,12.12-5.69,12.65-12.37l-.05-66.22c-1.25-7.31-6.48-11.35-13.76-11.83-4.31-.28-10.91.7-14.77-.02-.72-.13-2.75-1.74-3.75-2.22-8.12-3.94-17.35-3.79-25.47.04-.95.45-3.09,2.05-3.79,2.18-3.77.7-10.29-.25-14.5,0-7.77.46-13.06,4.79-14.07,12.65ZM630.27,673.01v22.13h-30c-3.12,0-7.02-4.06-6.96-7.25v-64.55c-.02-3.74,3.81-7.81,7.53-7.81h9.53c-1.98,2.87-4.04,5.73-5.36,9-.82,2.02-1.5,3.22-.16,5.19,1.44,2.12,6.23,8.41,7.96,9.95.62.55,1.4.91,2.24.89,11.24-.09,35.85,0,35.85,0,0,0,1.25-.11,1.81-.46,2.59-3.21,5.92-6.59,8.26-9.93.39-.55,1.07-1.35,1.14-2.01.16-1.49-2.32-6.43-3.18-7.88-.36-.61-3.33-4.51-3.07-4.75h9.24c2.91,0,7.54,3.67,7.54,6.68v33.69s.05,17.11.05,17.11h-.05v15.45c0,2.61-4.08,6.68-6.68,6.68h-30.28v-22.13s-5.4,0-5.4,0Z"/>
-      <path class="cls-1" d="M637.1,635.15c-.54-4.91-7.6-4.78-8.25,0h8.25Z"/>
-      <line class="cls-1" x1="628.85" y1="635.15" x2="637.1" y2="635.15"/>
-      <path class="cls-1" d="M636.53,626.77c2.1-1.77,5.03-8.73,8.39-6.13,3.41,2.64-2.92,7.05-4.03,9.53l2.17,4.84h7.12s5.83-7.28,5.83-7.28c.46-1.03-1.05-3.61-1.62-4.62-10.64-18.81-37.31-15.93-44.58,3.93l6.25,7.95,7.08.12c.81-6.2,7.36-10.75,13.4-8.35Z"/>
-    </g>
-  </g>
-  <circle class="cls-24" cx="810.84" cy="332.14" r="164.04"/>
+  <rect class="cls-14" x=".12" y=".12" width="884.22" height="598.6"/>
   <g>
     <g>
-      <path class="cls-11" d="M723.56,280.97c0,7.35-.81,12.93-1.09,15.04-.28,2.11-1.8,12.32-2.11,15.24-.31,2.93-.71,9.14-.71,13.89v18.26l-9.53,5.71v-23.97c0-4.57,1.17-10.5,1.97-13.07.6-1.94,3.11-7.88,4.6-11.43h0c.7-1.66,1.25-2.96,1.5-3.61l.12-.3c.98-2.46,3.27-8.21,3.27-15.75v-16.83h1.97v16.83ZM740.31,311.18c-.64-2.08-3.09-7.88-4.71-11.72-.69-1.63-1.23-2.93-1.48-3.54l-.12-.31c-.91-2.3-3.05-7.67-3.05-14.64v-18.26c.44-.03.79-.39.79-.83v-1.7c0-.46-.38-.83-.85-.83h-12.36c-.47,0-.85.37-.85.83v1.7c0,.44.35.8.79.83v18.26c0,6.97-2.14,12.34-3.05,14.64l-.12.31c-.24.61-.79,1.91-1.48,3.54-1.62,3.84-4.07,9.64-4.71,11.72-.87,2.83-2.1,9.03-2.1,13.96v39.5c0,2.57.46,4.86,1.34,6.64.81,1.65,1.92,2.7,3.11,2.97.24.05.47.11.72.17,1.76.42,4.17,1,10.94,1.12v.03h.26c.46,0,.91,0,1.34,0,.43,0,.88,0,1.34,0h.26v-.03c6.77-.13,9.18-.7,10.94-1.12.25-.06.48-.12.72-.17,1.19-.26,2.29-1.32,3.11-2.97.88-1.78,1.34-4.07,1.34-6.64v-39.5c0-4.93-1.23-11.13-2.1-13.96"/>
-      <path class="cls-11" d="M691.25,370.07c-4.03-.75-4.31-2.99-4.31-5.24v-9.71c0-3.27,5.28-3.81,11.53-12.32,6.25-8.51,2.95-30.53,1.7-36.25h-30.15c-1.25,5.72-4.55,27.74,1.7,36.25,6.25,8.51,11.53,9.05,11.53,12.32v9.71c0,2.25-.28,4.49-4.31,5.24-4.03.75-10.14,1.56-7.64,3.47,1.99,1.52,9.97,1.74,13.14,1.77h0s.24,0,.65,0c.42,0,.65,0,.65,0h0c3.17-.03,11.15-.25,13.14-1.77,2.5-1.91-3.61-2.72-7.64-3.47"/>
+      <text class="cls-2" transform="translate(320.76 85.71)"><tspan x="0" y="0">33%</tspan></text>
+      <text class="cls-4" transform="translate(320.76 103.29)"><tspan x="0" y="0">dels nens de 3 a </tspan><tspan x="0" y="15.38">14 a</tspan><tspan class="cls-20" x="25.37" y="15.38">n</tspan><tspan x="33.09" y="15.38">ys </tspan><tspan class="cls-20" x="50.77" y="15.38">f</tspan><tspan x="55.46" y="15.38">an un </tspan><tspan x="0" y="30.76">consum f</tspan><tspan class="cls-23" x="58.14" y="30.76">r</tspan><tspan x="63.05" y="30.76">eqüent </tspan><tspan x="0" y="46.15">d´alimen</tspan><tspan class="cls-34" x="56.25" y="46.15">t</tspan><tspan x="61.13" y="46.15">s </tspan><tspan x="0" y="61.53">hipe</tspan><tspan class="cls-23" x="27.26" y="61.53">r</tspan><tspan x="32.17" y="61.53">calòrics</tspan></text>
     </g>
     <g>
-      <text class="cls-10" transform="translate(751.75 276.72)"><tspan x="0" y="0">1</tspan></text>
+      <text class="cls-2" transform="translate(693.54 311.13)"><tspan x="0" y="0">33%</tspan></text>
+      <text class="cls-4" transform="translate(693.54 328.7)"><tspan x="0" y="0">dels nens de 3 a </tspan><tspan x="0" y="15.38">14 a</tspan><tspan class="cls-20" x="25.37" y="15.38">n</tspan><tspan x="33.09" y="15.38">ys </tspan><tspan class="cls-20" x="50.77" y="15.38">f</tspan><tspan x="55.46" y="15.38">an un </tspan><tspan x="0" y="30.76">consum f</tspan><tspan class="cls-23" x="58.14" y="30.76">r</tspan><tspan x="63.05" y="30.76">eqüent </tspan><tspan x="0" y="46.15">d´alimen</tspan><tspan class="cls-34" x="56.25" y="46.15">t</tspan><tspan x="61.13" y="46.15">s </tspan><tspan x="0" y="61.53">hipe</tspan><tspan class="cls-23" x="27.26" y="61.53">r</tspan><tspan x="32.17" y="61.53">calòrics</tspan></text>
+    </g>
+    <g>
+      <text class="cls-2" transform="translate(95.59 349.66)"><tspan x="0" y="0">14,6%</tspan></text>
+      <text class="cls-4" transform="translate(95.59 369.16)"><tspan x="0" y="0">dels adul</tspan><tspan class="cls-32" x="56.5" y="0">t</tspan><tspan x="61.39" y="0">s </tspan><tspan x="0" y="15.38">consumeix </tspan><tspan x="0" y="30.76">begudes </tspan><tspan x="0" y="46.15">ensuc</tspan><tspan class="cls-28" x="38.33" y="46.15">r</tspan><tspan x="43.37" y="46.15">ades</tspan></text>
+    </g>
+    <g>
+      <text class="cls-2" transform="translate(437.42 411.11)"><tspan x="0" y="0">52%</tspan></text>
+      <text class="cls-4" transform="translate(437.42 428.68)"><tspan x="0" y="0">dels adul</tspan><tspan class="cls-34" x="56.5" y="0">t</tspan><tspan x="61.39" y="0">s i el</tspan></text>
+      <text class="cls-2" transform="translate(437.42 465.41)"><tspan x="0" y="0">32%</tspan></text>
+      <text class="cls-4" transform="translate(437.42 483.62)"><tspan x="0" y="0">dels menors</tspan><tspan x="0" y="15.38">de 6 a 12 a</tspan><tspan class="cls-20" x="65.38" y="15.38">n</tspan><tspan x="73.1" y="15.38">ys </tspan><tspan class="cls-30" x="0" y="30.76">t</tspan><tspan class="cls-19" x="4.91" y="30.76">enen sob</tspan><tspan class="cls-23" x="62.35" y="30.76">r</tspan><tspan x="67.26" y="30.76">epes</tspan><tspan x="0" y="46.15">o obesitat</tspan></text>
       <g>
-        <text class="cls-5" transform="translate(781.56 275.59)"><tspan x="0" y="0">de cada 2 joves</tspan></text>
-        <text class="cls-11" transform="translate(752.79 326.51)"><tspan class="cls-12" x="0" y="0">14-18</tspan><tspan class="cls-4" x="127.76" y="0" xml:space="preserve"> a</tspan><tspan class="cls-3" x="144.21" y="0">n</tspan><tspan class="cls-4" x="156.01" y="0">ys</tspan></text>
-        <text class="cls-6" transform="translate(768.13 357.39)"><tspan x="0" y="0">ha consumit</tspan><tspan x="0" y="24">alcohol el dar</tspan><tspan class="cls-15" x="129.07" y="24">r</tspan><tspan class="cls-13" x="136.55" y="24">er</tspan><tspan x="0" y="48">mes i 1 de cada 4</tspan><tspan x="0" y="72">un consum</tspan><tspan x="0" y="96">in</tspan><tspan class="cls-20" x="17.41" y="96">t</tspan><tspan x="24.89" y="96">ensiu</tspan></text>
+        <path class="cls-11" d="M374.86,433.85v41.91c.49,4.25,3.63,7.53,7.93,7.94h41.75c4.26-.28,7.77-3.65,8.11-7.93l-.03-42.44c-.8-4.69-4.16-7.28-8.82-7.58-2.76-.18-7,.45-9.47-.01-.46-.09-1.76-1.11-2.4-1.42-5.2-2.52-11.12-2.43-16.32.03-.61.29-1.98,1.31-2.43,1.4-2.41.45-6.6-.16-9.29,0-4.98.3-8.37,3.07-9.02,8.11ZM402.02,466.05v14.18h-19.23c-2,0-4.5-2.6-4.46-4.65v-41.37c-.02-2.39,2.44-5,4.83-5h6.11c-1.27,1.84-2.59,3.68-3.44,5.77-.52,1.3-.96,2.07-.1,3.33.93,1.36,3.99,5.39,5.1,6.38.4.35.9.58,1.43.57,7.21-.06,22.98,0,22.98,0,0,0,.8-.07,1.16-.3,1.66-2.06,3.8-4.22,5.3-6.37.25-.35.69-.86.73-1.29.1-.96-1.49-4.12-2.04-5.05-.23-.39-2.13-2.89-1.97-3.04h5.92c1.86,0,4.83,2.36,4.83,4.28v21.59s.03,10.96.03,10.96h-.03v9.9c0,1.67-2.61,4.28-4.28,4.28h-19.41v-14.18s-3.46,0-3.46,0Z"/>
+        <path class="cls-7" d="M406.4,441.78c-.34-3.15-4.87-3.07-5.29,0h5.29Z"/>
+        <line class="cls-7" x1="401.11" y1="441.78" x2="406.4" y2="441.78"/>
+        <path class="cls-7" d="M406.03,436.42c1.34-1.13,3.22-5.6,5.38-3.93s-1.87,4.52-2.59,6.11l1.39,3.1h4.56s3.74-4.66,3.74-4.66c.29-.66-.67-2.31-1.04-2.96-6.82-12.05-23.91-10.21-28.57,2.52l4.01,5.09,4.54.08c.52-3.97,4.71-6.89,8.59-5.35Z"/>
       </g>
     </g>
-  </g>
-  <circle class="cls-24" cx="424.37" cy="700.98" r="110.84"/>
-  <g>
-    <text class="cls-10" transform="translate(369.06 706.56)"><tspan x="0" y="0">18%</tspan></text>
-    <text class="cls-6" transform="translate(375.27 733.99)"><tspan x="0" y="0">dels adul</tspan><tspan class="cls-23" x="87.09" y="0">t</tspan><tspan x="94.53" y="0">s </tspan><tspan x="0" y="24">fumadors </tspan><tspan x="0" y="48">habituals</tspan></text>
     <g>
-      <rect class="cls-11" x="404.34" y="642.18" width="57.48" height="11.43"/>
-      <rect class="cls-11" x="398.03" y="642.18" width="3.52" height="11.43"/>
-      <rect class="cls-11" x="391.7" y="642.18" width="3.52" height="11.43"/>
-      <path class="cls-11" d="M429.99,605.04l-2.68,2.29c1.35,1.42,3.67,4.5,3.67,9.09,0,9.76-9.21,12-17.34,13.97-7.28,1.77-13.7,3.33-15.25,8.97h3.77c1.36-2.62,5.11-3.8,12.32-5.55,4.19-1.02,8.93-2.17,12.72-4.48,4.85-2.96,7.31-7.3,7.31-12.91s-2.72-9.47-4.51-11.38"/>
-      <path class="cls-11" d="M425.18,609.17l-2.68,2.3c.29.25,2.15,2,2.15,4.96,0,4.15-2.82,5.46-12.5,7.81-4.29,1.04-9.15,2.22-13.02,4.62-4.1,2.53-6.51,6.06-7.21,10.51h3.57c1.6-7.84,9.99-9.89,17.49-11.7,8.15-1.98,15.19-3.69,15.19-11.23,0-3.78-2-6.26-2.99-7.26"/>
-    </g>
-  </g>
-  <circle class="cls-24" cx="491" cy="418.91" r="110.84"/>
-  <g>
-    <text class="cls-10" transform="translate(444.66 425.7)"><tspan x="0" y="0">40%</tspan></text>
-    <text class="cls-6" transform="translate(444.66 453.12)"><tspan x="0" y="0">dels j</tspan><tspan class="cls-19" x="50.83" y="0">ov</tspan><tspan x="73.76" y="0">es</tspan><tspan class="cls-21" x="0" y="24">t</tspan><tspan x="7.49" y="24">enen oci</tspan><tspan x="0" y="48">sedentari</tspan></text>
-    <g>
-      <path class="cls-11" d="M473.45,345.31h-2.93c-.37,0-.67-.3-.67-.67v-2.93c0-.92-.75-1.67-1.67-1.67h-.39c-.92,0-1.67.75-1.67,1.67v2.93c0,.37-.3.67-.67.67h-2.93c-.92,0-1.67.75-1.67,1.67v.39c0,.92.75,1.67,1.67,1.67h2.93c.37,0,.67.3.67.67v2.93c0,.92.75,1.67,1.67,1.67h.39c.92,0,1.67-.75,1.67-1.67v-2.93c0-.37.3-.67.67-.67h2.93c.92,0,1.67-.75,1.67-1.67v-.39c0-.92-.75-1.67-1.67-1.67"/>
-      <path class="cls-11" d="M514.22,351.04c-2.13,0-3.86-1.73-3.86-3.86s1.73-3.86,3.86-3.86,3.86,1.73,3.86,3.86-1.73,3.86-3.86,3.86M507.03,358.21c-2.13,0-3.86-1.73-3.86-3.86s1.73-3.86,3.86-3.86,3.86,1.73,3.86,3.86-1.73,3.86-3.86,3.86M499.85,351.04c-2.13,0-3.86-1.73-3.86-3.86s1.73-3.86,3.86-3.86,3.86,1.73,3.86,3.86-1.73,3.86-3.86,3.86M507.03,336.15c2.13,0,3.86,1.73,3.86,3.86s-1.73,3.86-3.86,3.86-3.86-1.73-3.86-3.86,1.73-3.86,3.86-3.86M493.41,338.61c0,.64-.52,1.15-1.15,1.15h-11.42c-.63,0-1.15-.52-1.15-1.15v-6.8c2.26.5,4.32.87,6.86.87s4.55-.35,6.87-.87v6.8ZM477.96,347.41c0,1.96-1.59,3.55-3.55,3.55h-2.66v2.66c0,1.95-1.59,3.55-3.55,3.55h-.46c-1.96,0-3.55-1.59-3.55-3.55v-2.66h-2.66c-1.96,0-3.54-1.59-3.54-3.55v-.46c0-1.96,1.59-3.55,3.54-3.55h2.66v-2.66c0-1.96,1.59-3.54,3.55-3.54h.46c1.96,0,3.55,1.59,3.55,3.54v2.66h2.66c1.96,0,3.55,1.59,3.55,3.55v.46ZM527.98,363.72l-.07-.65c-.44-4.1-2.45-14.48-5.33-21.05l-.13-.3c-1.74-4-5.37-12.33-15.58-12.95-5.72-.34-9.26.47-12.87,1.28-2.56.59-4.73,1.05-7.47,1.05s-4.91-.45-7.64-1.08c-3.41-.77-6.97-1.59-12.7-1.24-10.21.62-13.84,8.95-15.58,12.96l-.12.29c-2.88,6.58-4.89,16.95-5.33,21.05l-.07.65c-.49,4.63-1.17,10.97,1.68,14.15,1.16,1.28,2.77,1.93,4.84,1.93,6.67,0,11.58-6.54,14.82-10.87.73-.97,1.38-1.83,1.95-2.49,3.21-3.69,5.06-4.71,7.49-4.17,1.71.38,6.19,1.28,10.66,1.28s8.94-.9,10.66-1.28c2.45-.53,4.28.48,7.49,4.17.57.65,1.22,1.52,1.94,2.49,3.25,4.33,8.16,10.87,14.83,10.87h.03c2.04,0,3.66-.65,4.81-1.94,2.86-3.17,2.18-9.52,1.69-14.15"/>
-      <path class="cls-11" d="M499.85,345.24c-1.07,0-1.94.87-1.94,1.94s.87,1.94,1.94,1.94,1.94-.87,1.94-1.94-.87-1.94-1.94-1.94"/>
-      <path class="cls-11" d="M507.03,352.41c-1.07,0-1.94.87-1.94,1.94s.87,1.94,1.94,1.94,1.94-.87,1.94-1.94-.87-1.94-1.94-1.94"/>
-      <path class="cls-11" d="M514.22,345.24c-1.07,0-1.94.87-1.94,1.94s.87,1.94,1.94,1.94,1.94-.87,1.94-1.94-.87-1.94-1.94-1.94"/>
-      <path class="cls-11" d="M507.03,338.07c-1.07,0-1.94.87-1.94,1.94s.87,1.94,1.94,1.94,1.94-.87,1.94-1.94-.87-1.94-1.94-1.94"/>
-    </g>
-  </g>
-  <circle class="cls-1" cx="220.89" cy="230.56" r="164.04"/>
-  <g>
-    <text class="cls-10" transform="translate(203.04 184.57) rotate(.1)"><tspan x="0" y="0">16%</tspan></text>
-    <text class="cls-6" transform="translate(202.99 212) rotate(.1)"><tspan x="0" y="0">dels adul</tspan><tspan class="cls-23" x="87.09" y="0">t</tspan><tspan x="94.53" y="0">s </tspan><tspan x="0" y="24">consumeix </tspan><tspan x="0" y="48">psico</tspan><tspan class="cls-18" x="52.39" y="48">f</tspan><tspan x="59.57" y="48">àrmacs </tspan><tspan x="0" y="72">habitualment</tspan></text>
-    <g>
-      <rect class="cls-8" x="107.9" y="151.43" width="45.96" height="122.07" rx="21.83" ry="21.83" transform="translate(124.23 -36.99) rotate(30.1)"/>
-      <line class="cls-8" x1="111.72" y1="199.69" x2="151.48" y2="222.75"/>
+      <text class="cls-2" transform="translate(482.72 210.17)"><tspan x="0" y="0">1</tspan></text>
+      <g>
+        <text class="cls-6" transform="translate(501.82 209.45)"><tspan class="cls-26" x="0" y="0">de cada 2 j</tspan><tspan class="cls-29" x="72.13" y="0">ov</tspan><tspan class="cls-26" x="88.36" y="0">es</tspan></text>
+        <text class="cls-11" transform="translate(483.39 242.08)"><tspan class="cls-1" x="0" y="0">14-18</tspan><tspan class="cls-8" x="81.88" y="0" xml:space="preserve"> a</tspan><tspan class="cls-10" x="92.43" y="0">n</tspan><tspan class="cls-9" x="99.99" y="0">ys</tspan></text>
+        <text class="cls-4" transform="translate(493.22 261.87)"><tspan x="0" y="0">ha consumit</tspan><tspan x="0" y="15.38">alcohol el dar</tspan><tspan class="cls-23" x="83.58" y="15.38">r</tspan><tspan x="88.5" y="15.38">er</tspan><tspan x="0" y="30.76">mes i 1 de cada 4</tspan><tspan x="0" y="46.15">un consum</tspan><tspan x="0" y="61.53">in</tspan><tspan class="cls-30" x="11.46" y="61.53">t</tspan><tspan class="cls-19" x="16.36" y="61.53">ensiu</tspan></text>
+      </g>
     </g>
     <g>
-      <circle class="cls-2" cx="154.18" cy="245.18" r="33.04"/>
-      <line class="cls-8" x1="118.53" y1="244.24" x2="190.7" y2="244.38"/>
+      <text class="cls-2" transform="translate(225.76 476.19)"><tspan x="0" y="0">18%</tspan></text>
+      <text class="cls-4" transform="translate(229.75 493.76)"><tspan x="0" y="0">dels adul</tspan><tspan class="cls-32" x="56.5" y="0">t</tspan><tspan x="61.39" y="0">s </tspan><tspan x="0" y="15.38">fumadors </tspan><tspan x="0" y="30.76">habituals</tspan></text>
+      <g>
+        <rect class="cls-11" x="248.38" y="434.92" width="36.84" height="7.32"/>
+        <rect class="cls-11" x="244.34" y="434.92" width="2.26" height="7.32"/>
+        <rect class="cls-11" x="240.28" y="434.92" width="2.26" height="7.32"/>
+        <path class="cls-11" d="M264.82,411.12l-1.72,1.47c.87.91,2.35,2.89,2.35,5.83,0,6.26-5.9,7.69-11.11,8.95-4.67,1.13-8.78,2.13-9.77,5.75h2.41c.87-1.68,3.28-2.43,7.89-3.55,2.68-.65,5.73-1.39,8.15-2.87,3.11-1.9,4.68-4.68,4.68-8.27s-1.74-6.07-2.89-7.3"/>
+        <path class="cls-11" d="M261.73,413.77l-1.72,1.47c.18.16,1.38,1.28,1.38,3.18,0,2.66-1.8,3.5-8.01,5.01-2.75.67-5.86,1.42-8.35,2.96-2.63,1.62-4.17,3.89-4.62,6.74h2.29c1.02-5.03,6.4-6.34,11.21-7.5,5.22-1.27,9.74-2.36,9.74-7.2,0-2.42-1.28-4.01-1.92-4.65"/>
+      </g>
     </g>
+    <text class="cls-2" transform="translate(292.54 303.76)"><tspan x="0" y="0">40%</tspan></text>
+    <text class="cls-4" transform="translate(292.54 321.33)"><tspan x="0" y="0">dels j</tspan><tspan class="cls-25" x="32.95" y="0">ov</tspan><tspan x="47.86" y="0">es</tspan><tspan class="cls-31" x="0" y="15.38">t</tspan><tspan x="4.91" y="15.38">enen oci</tspan><tspan x="0" y="30.76">sedentari</tspan></text>
+    <text class="cls-2" transform="translate(626.07 489.15)"><tspan x="0" y="0">40%</tspan></text>
+    <text class="cls-4" transform="translate(626.07 506.72)"><tspan x="0" y="0">dels j</tspan><tspan class="cls-25" x="32.95" y="0">ov</tspan><tspan x="47.86" y="0">es</tspan><tspan class="cls-31" x="0" y="15.38">t</tspan><tspan x="4.91" y="15.38">enen oci</tspan><tspan x="0" y="30.76">sedentari</tspan></text>
+    <text class="cls-3" transform="translate(152.56 162.52) rotate(.1)"><tspan x="0" y="0">32,9%</tspan></text>
+    <text class="cls-5" transform="translate(152.49 183.06) rotate(.1)"><tspan x="0" y="0">de la població </tspan><tspan x="0" y="15.38">major de 15 </tspan><tspan x="0" y="30.76">a</tspan><tspan class="cls-27" x="7.44" y="30.76">n</tspan><tspan x="15.15" y="30.76">ys </tspan><tspan class="cls-27" x="32.84" y="30.76">f</tspan><tspan x="37.53" y="30.76">an un </tspan><tspan x="0" y="46.15">ni</tspan><tspan class="cls-24" x="11.46" y="46.15">v</tspan><tspan x="18.74" y="46.15">ell baix </tspan><tspan x="0" y="61.53">d</tspan><tspan class="cls-21" x="8.14" y="61.53">’</tspan><tspan x="10.34" y="61.53">activitat </tspan><tspan x="0" y="76.91">física</tspan></text>
+    <text class="cls-3" transform="translate(708.17 107.67) rotate(.1)"><tspan x="0" y="0">16%</tspan></text>
+    <text class="cls-5" transform="translate(708.12 125.23) rotate(.1)"><tspan x="0" y="0">dels adul</tspan><tspan class="cls-33" x="56.5" y="0">t</tspan><tspan x="61.39" y="0">s </tspan><tspan x="0" y="15.38">consumeix </tspan><tspan x="0" y="30.76">psico</tspan><tspan class="cls-27" x="34.19" y="30.76">f</tspan><tspan x="38.88" y="30.76">àrmacs </tspan><tspan x="0" y="46.15">habitualment</tspan></text>
+    <g>
+      <rect class="cls-12" x="655.22" y="86.86" width="24.98" height="66.34" rx="11.87" ry="11.87" transform="translate(150.27 -318.72) rotate(30.1)"/>
+      <line class="cls-12" x1="657.3" y1="113.09" x2="678.91" y2="125.62"/>
+    </g>
+    <g>
+      <circle class="cls-13" cx="680.37" cy="137.81" r="17.96"/>
+      <line class="cls-12" x1="661" y1="137.3" x2="700.22" y2="137.37"/>
+    </g>
+    <path class="cls-16" d="M474.48,229.31c0-4.52-1.12-8.92-3.18-12.53l-1.59-2.78c-2.07-3.61-3.18-8.01-3.18-12.53v-6.96c0-.92-.28-1.81-.78-2.46-.5-.65-1.17-1.02-1.87-1.02h-5.3c-.7,0-1.38.37-1.87,1.02-.5.65-.78,1.54-.78,2.46v6.96c0,4.52-1.12,8.92-3.18,12.53l-1.59,2.78c-2.07,3.61-3.18,8.01-3.18,12.53v27.84c0,.92.28,1.81.78,2.46.5.65,1.17,1.02,1.87,1.02h21.21c.7,0,1.38-.37,1.87-1.02.5-.65.78-1.54.78-2.46v-27.84ZM474.48,229.31h-10.61c-.7,0-1.38.37-1.87,1.02-.5.65-.78,1.54-.78,2.46v10.44c0,.92.28,1.81.78,2.46.5.65,1.17,1.02,1.87,1.02h10.61"/>
+    <path class="cls-16" d="M310.02,255.73h8.32M314.17,251.57v8.32M328.73,257.81h.02M334.97,253.65h.02M333.56,243.25h-22.13c-2.06,0-4.04.76-5.57,2.14-1.53,1.38-2.49,3.28-2.7,5.32-.01.11-.02.21-.03.32-.17,1.4-1.42,11.88-1.42,15.09,0,1.65.66,3.24,1.83,4.41,1.17,1.17,2.76,1.83,4.41,1.83,2.08,0,3.12-1.04,4.16-2.08l2.94-2.94c.78-.78,1.84-1.22,2.94-1.22h9.03c1.1,0,2.16.44,2.94,1.22l2.94,2.94c1.04,1.04,2.08,2.08,4.16,2.08,1.65,0,3.24-.66,4.41-1.83,1.17-1.17,1.83-2.76,1.83-4.41,0-3.21-1.26-13.69-1.42-15.09-.01-.1-.02-.21-.03-.31-.21-2.05-1.17-3.94-2.7-5.32-1.53-1.38-3.51-2.14-5.57-2.14Z"/>
+    <path class="cls-16" d="M640.29,441.68h8.32M644.45,437.52v8.32M659.01,443.76h.02M665.25,439.6h.02M663.83,429.21h-22.13c-2.06,0-4.04.76-5.57,2.14-1.53,1.38-2.49,3.28-2.7,5.32-.01.11-.02.21-.03.32-.17,1.4-1.42,11.88-1.42,15.09,0,1.65.66,3.24,1.83,4.41,1.17,1.17,2.76,1.83,4.41,1.83,2.08,0,3.12-1.04,4.16-2.08l2.94-2.94c.78-.78,1.84-1.22,2.94-1.22h9.03c1.1,0,2.16.44,2.94,1.22l2.94,2.94c1.04,1.04,2.08,2.08,4.16,2.08,1.65,0,3.24-.66,4.41-1.83,1.17-1.17,1.83-2.76,1.83-4.41,0-3.21-1.26-13.69-1.42-15.09-.01-.1-.02-.21-.03-.31-.21-2.05-1.17-3.94-2.7-5.32-1.53-1.38-3.51-2.14-5.57-2.14Z"/>
+    <path class="cls-15" d="M135.28,147.39v-8.26c0-1.46-.58-2.86-1.61-3.89-1.03-1.03-2.43-1.61-3.89-1.61h-27.52c-1.46,0-2.86.58-3.89,1.61-1.03,1.03-1.61,2.43-1.61,3.89v8.26M135.28,147.39c1.46,0,2.86.58,3.89,1.61,1.03,1.03,1.61,2.43,1.61,3.89v13.76c0,1.46-.58,2.86-1.61,3.89s-2.43,1.61-3.89,1.61M135.28,147.39c-1.46,0-2.86.58-3.89,1.61-1.03,1.03-1.61,2.43-1.61,3.89v4.13c0,.36-.14.72-.4.97-.26.26-.61.4-.97.4h-24.77c-.36,0-.72-.14-.97-.4-.26-.26-.4-.61-.4-.97v-4.13c0-1.46-.58-2.86-1.61-3.89-1.03-1.03-2.43-1.61-3.89-1.61M96.75,147.39c-1.46,0-2.86.58-3.89,1.61-1.03,1.03-1.61,2.43-1.61,3.89v13.76c0,1.46.58,2.86,1.61,3.89s2.43,1.61,3.89,1.61M96.75,172.16h38.53M96.75,172.16v5.5M135.28,172.16v5.5"/>
   </g>
-  <rect class="cls-9" x="-.2" y="-.15" width="1022.02" height="881.71"/>
 </svg>
