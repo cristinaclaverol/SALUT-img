@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 242.45 304.38">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        font-family: Inter-Medium, Inter;
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-5 {
+        font-size: 18px;
+      }
+
+      .cls-2 {
+        font-size: 40px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: #ffdb91;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+      }
+
+      .cls-9 {
+        fill: #ee7173;
+      }
+
+      .cls-4 {
+        fill: #8b898e;
+        font-size: 9.6px;
+      }
+
+      .cls-10 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.13em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #161616;
+      }
+
+      .cls-18 {
+        fill: #2e3a59;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-9" d="M123.95,192.1l-56.32-90.13c17.32-10.82,35.89-16.15,56.32-16.15v106.28Z"/>
+    <path class="cls-8" d="M123.95,192.1L46.22,119.62c6.89-7.38,12.85-12.3,21.41-17.65l56.32,90.13Z"/>
+    <path class="cls-18" d="M123.95,192.1v-106.28c58.7,0,106.28,47.58,106.28,106.28s-47.58,106.28-106.28,106.28S17.67,250.8,17.67,192.1c0-28.17,9.34-51.88,28.55-72.48l77.73,72.48Z"/>
+  </g>
+  <g>
+    <text class="cls-4" transform="translate(103.63 10.26)"><tspan x="0" y="0">EN PROCÉS</tspan></text>
+    <rect class="cls-8" x="84.69" y="-.04" width="13.4" height="13.4" transform="translate(84.74 98.05) rotate(-90)"/>
+  </g>
+  <g>
+    <g>
+      <text class="cls-4" transform="translate(19.91 10.26)"><tspan x="0" y="0">REALITZ</tspan><tspan class="cls-10" x="39.08" y="0">A</tspan><tspan class="cls-7" x="44.97" y="0">T</tspan></text>
+      <rect class="cls-18" x=".05" y="-.04" width="13.4" height="13.4" transform="translate(.09 13.4) rotate(-90)"/>
+    </g>
+    <g>
+      <text class="cls-4" transform="translate(191.29 10.26)"><tspan x="0" y="0">NO INICI</tspan><tspan class="cls-10" x="39.08" y="0">A</tspan><tspan class="cls-7" x="44.97" y="0">T</tspan></text>
+      <rect class="cls-9" x="171.46" y="-.04" width="13.4" height="13.4" transform="translate(171.51 184.82) rotate(-90)"/>
+    </g>
+  </g>
+  <text class="cls-1" transform="translate(155.51 164.33)"><tspan x="0" y="0">8</tspan><tspan class="cls-11" x="11.37" y="0">7</tspan><tspan class="cls-15" x="19.53" y="0">,</tspan><tspan x="24.23" y="0">0%</tspan></text>
+  <text class="cls-5" transform="translate(74.25 146.4)"><tspan class="cls-14" x="0" y="0">4</tspan><tspan class="cls-13" x="11.28" y="0">,</tspan><tspan x="16" y="0">3%</tspan></text>
+  <text class="cls-1" transform="translate(93.2 118.29)"><tspan class="cls-12" x="0" y="0">8</tspan><tspan class="cls-16" x="10.97" y="0">,</tspan><tspan x="15.81" y="0">7%</tspan></text>
+  <circle class="cls-6" cx="123.68" cy="191.74" r="27.9"/>
+  <g>
+    <text class="cls-2" transform="translate(61.8 62.29)"><tspan x="0" y="0">23</tspan></text>
+    <text class="cls-3" transform="translate(119.39 44.5)"><tspan x="0" y="0">objectius</tspan><tspan x="0" y="18">en </tspan><tspan class="cls-17" x="20.29" y="18">t</tspan><tspan x="25.42" y="18">otal </tspan></text>
+  </g>
+</svg>
